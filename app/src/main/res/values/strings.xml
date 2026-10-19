@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MILL</string>
+    <string name="tagline_short">Media conversion, refined</string>
+    <string name="queue">QUEUE</string>
+    <string name="queue_empty">No conversions yet.\nAdd files to get started.</string>
+</resources>

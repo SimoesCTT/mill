@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Mill" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/mill_accent</item>
+        <item name="colorOnPrimary">@color/mill_bg</item>
+        <item name="colorSurface">@color/mill_surface</item>
+        <item name="colorOnSurface">@color/mill_text</item>
+        <item name="colorSurfaceVariant">@color/mill_surface_raised</item>
+        <item name="colorOnSurfaceVariant">@color/mill_text_secondary</item>
+        <item name="android:colorBackground">@color/mill_bg</item>
+        <item name="android:statusBarColor">@color/mill_bg</item>
+        <item name="android:navigationBarColor">@color/mill_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

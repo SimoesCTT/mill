@@ -1,0 +1,17 @@
+<resources>
+    <!-- Backgrounds -->
+    <color name="mill_bg">#121212</color>
+    <color name="mill_surface">#1E1E1E</color>
+    <color name="mill_surface_raised">#252525</color>
+    <color name="mill_stroke">#333333</color>
+    <color name="mill_divider">#2C2C2C</color>
+
+    <!-- Text -->
+    <color name="mill_text">#FFFFFF</color>
+    <color name="mill_text_secondary">#CCCCCC</color>
+    <color name="mill_text_muted">#888888</color>
+
+    <!-- Accent -->
+    <color name="mill_accent">#FFFFFF</color>
+    <color name="mill_accent_dim">#AAAAAA</color>
+</resources>

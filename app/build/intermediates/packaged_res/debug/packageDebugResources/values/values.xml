@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mill_accent">#FFFFFF</color>
+    <color name="mill_accent_dim">#AAAAAA</color>
+    <color name="mill_bg">#121212</color>
+    <color name="mill_divider">#2C2C2C</color>
+    <color name="mill_stroke">#333333</color>
+    <color name="mill_surface">#1E1E1E</color>
+    <color name="mill_surface_raised">#252525</color>
+    <color name="mill_text">#FFFFFF</color>
+    <color name="mill_text_muted">#888888</color>
+    <color name="mill_text_secondary">#CCCCCC</color>
+    <string name="app_name">MILL</string>
+    <string name="queue">QUEUE</string>
+    <string name="queue_empty">No conversions yet.\nAdd files to get started.</string>
+    <string name="tagline_short">Media conversion, refined</string>
+    <style name="Theme.Mill" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/mill_accent</item>
+        <item name="colorOnPrimary">@color/mill_bg</item>
+        <item name="colorSurface">@color/mill_surface</item>
+        <item name="colorOnSurface">@color/mill_text</item>
+        <item name="colorSurfaceVariant">@color/mill_surface_raised</item>
+        <item name="colorOnSurfaceVariant">@color/mill_text_secondary</item>
+        <item name="android:colorBackground">@color/mill_bg</item>
+        <item name="android:statusBarColor">@color/mill_bg</item>
+        <item name="android:navigationBarColor">@color/mill_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

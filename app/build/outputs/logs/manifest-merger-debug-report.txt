@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [androidx.databinding:viewbinding:8.7.2] /home/americosimoes/.gradle/caches/8.9/transforms/75ce1d9cc42d9255659d15f307827013/transformed/viewbinding-8.7.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/americosimoes/.gradle/caches/8.9/transforms/95067a21ab66fc5e456a20ab25ffd458/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/americosimoes/.gradle/caches/8.9/transforms/eba8ae356fd0609cf99cd0a9ba37ea2f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/264835a3e268bb049a4ded898ddc1622/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/c6d1fd5310c0142f093fc0a397704491/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/americosimoes/.gradle/caches/8.9/transforms/ea1f32641902632458d3c19a376dc434/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/americosimoes/.gradle/caches/8.9/transforms/5bea668c63a5e23971c0786234b5d7c6/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/bb6764c2d3efbce2ede10b8b7085d9ae/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/americosimoes/.gradle/caches/8.9/transforms/b34c7716dc618ae1f4d29597d54a352e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/americosimoes/.gradle/caches/8.9/transforms/85b3791085d7a79c93c265ac33aef4c4/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/dbb00edb2608d9bccf107e9c7654a021/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/eb06c1cfc1ce772a9816fe3fb24df177/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/americosimoes/.gradle/caches/8.9/transforms/c5b03603ca600283f25d308a0f067423/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/5591a0f07243afec5e7686866dce334d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/15b4d0aa51da0d5078920c5373854e8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b99a43924c171699fe7a23ec35b07769/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/00231244edee70ae79073ba521b0e37b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/b40090a07672dc9fcb066d1d43f45947/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/3fb9032beafa1034cd906808a6eda63b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b199b04b276cd39f3277138d4ced28f0/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/a61643733f8681fa395ae5f9b6b12de3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/americosimoes/.gradle/caches/8.9/transforms/440b6addd44429f7340f0340f0dee64c/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/52cbda13d99557a91336c592b8289858/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a68018ed0b13244fe0a8897cbff62391/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a3f21a07a21e067ecb8fe0967b6663ee/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/3cf2a0738543d6791d053f42d51d521a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/231ee9b84e4d1a49f987daec44f68983/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/77bda6e49d4ee268f8f785f46baf20f8/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/americosimoes/.gradle/caches/8.9/transforms/3a0693f86213a035f3f2dae22142ce31/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /home/americosimoes/.gradle/caches/8.9/transforms/db8140858bbb738020e471db030db57b/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/f9696666e158e218e72cdaacfbb7f53f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/dddd79e1479e822f388e6d0e1e05caea/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/e12528b508dc997192a8b11f45f27521/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/179b236c815e6930b2a4048ba91c6eb9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/0e7d82aeb78a7319ba6d87a13f9a9200/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/americosimoes/.gradle/caches/8.9/transforms/9718aca6bb9436d2563968830b4801f5/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/6bc16bf5a102bad9294ad554b41e1936/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/cfb0ebebc92c6546adfc8447dfc87ef8/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/17d6e47ace617836c8a13ce949217480/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [dev.ffmpegkit-maintained:ffmpeg-kit-full:8.1.7] /home/americosimoes/.gradle/caches/8.9/transforms/a6d8adbc4ef8296e234cb65d45215a87/transformed/ffmpeg-kit-full-8.1.7/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:5:22-72
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:7:5-8:38
+	android:maxSdkVersion
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:8:9-35
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:9:5-10:38
+	android:maxSdkVersion
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:10:9-35
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:11:5-12:40
+	tools:ignore
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:12:9-37
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:11:22-79
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:13:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:14:5-87
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:14:22-84
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:15:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:16:22-64
+application
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:18:5-55:19
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:18:5-55:19
+MERGED from [com.google.android.material:material:1.12.0] /home/americosimoes/.gradle/caches/8.9/transforms/95067a21ab66fc5e456a20ab25ffd458/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/americosimoes/.gradle/caches/8.9/transforms/95067a21ab66fc5e456a20ab25ffd458/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/americosimoes/.gradle/caches/8.9/transforms/eba8ae356fd0609cf99cd0a9ba37ea2f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/americosimoes/.gradle/caches/8.9/transforms/eba8ae356fd0609cf99cd0a9ba37ea2f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/e12528b508dc997192a8b11f45f27521/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/e12528b508dc997192a8b11f45f27521/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:24:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:23:9-42
+activity#com.mill.app.ui.MainActivity
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:27:9-40:20
+	android:exported
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:28:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:32:27-74
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:mimeType:video/*
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:34:13-39:29
+action#android.intent.action.SEND
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:36:27-73
+data
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:37:17-52
+	android:mimeType
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:37:23-49
+activity#com.mill.app.ui.SettingsActivity
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:43:13-48
+service#com.mill.app.service.WatchFolderService
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:46:9-49:40
+	android:exported
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:49:13-37
+	android:foregroundServiceType
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:48:13-53
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:47:13-55
+service#com.mill.app.service.ConvertService
+ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:51:9-54:40
+	android:exported
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:54:13-37
+	android:foregroundServiceType
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:53:13-53
+	android:name
+		ADDED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml:52:13-51
+uses-sdk
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.2] /home/americosimoes/.gradle/caches/8.9/transforms/75ce1d9cc42d9255659d15f307827013/transformed/viewbinding-8.7.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.2] /home/americosimoes/.gradle/caches/8.9/transforms/75ce1d9cc42d9255659d15f307827013/transformed/viewbinding-8.7.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/americosimoes/.gradle/caches/8.9/transforms/95067a21ab66fc5e456a20ab25ffd458/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/americosimoes/.gradle/caches/8.9/transforms/95067a21ab66fc5e456a20ab25ffd458/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/americosimoes/.gradle/caches/8.9/transforms/eba8ae356fd0609cf99cd0a9ba37ea2f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/americosimoes/.gradle/caches/8.9/transforms/eba8ae356fd0609cf99cd0a9ba37ea2f/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/264835a3e268bb049a4ded898ddc1622/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/264835a3e268bb049a4ded898ddc1622/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/c6d1fd5310c0142f093fc0a397704491/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/americosimoes/.gradle/caches/8.9/transforms/c6d1fd5310c0142f093fc0a397704491/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/americosimoes/.gradle/caches/8.9/transforms/ea1f32641902632458d3c19a376dc434/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/americosimoes/.gradle/caches/8.9/transforms/ea1f32641902632458d3c19a376dc434/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/americosimoes/.gradle/caches/8.9/transforms/5bea668c63a5e23971c0786234b5d7c6/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /home/americosimoes/.gradle/caches/8.9/transforms/5bea668c63a5e23971c0786234b5d7c6/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/bb6764c2d3efbce2ede10b8b7085d9ae/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/bb6764c2d3efbce2ede10b8b7085d9ae/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /home/americosimoes/.gradle/caches/8.9/transforms/b34c7716dc618ae1f4d29597d54a352e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/americosimoes/.gradle/caches/8.9/transforms/b34c7716dc618ae1f4d29597d54a352e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/americosimoes/.gradle/caches/8.9/transforms/85b3791085d7a79c93c265ac33aef4c4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/americosimoes/.gradle/caches/8.9/transforms/85b3791085d7a79c93c265ac33aef4c4/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/dbb00edb2608d9bccf107e9c7654a021/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/dbb00edb2608d9bccf107e9c7654a021/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/eb06c1cfc1ce772a9816fe3fb24df177/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/eb06c1cfc1ce772a9816fe3fb24df177/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/americosimoes/.gradle/caches/8.9/transforms/c5b03603ca600283f25d308a0f067423/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/americosimoes/.gradle/caches/8.9/transforms/c5b03603ca600283f25d308a0f067423/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/5591a0f07243afec5e7686866dce334d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/5591a0f07243afec5e7686866dce334d/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/15b4d0aa51da0d5078920c5373854e8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/15b4d0aa51da0d5078920c5373854e8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b99a43924c171699fe7a23ec35b07769/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b99a43924c171699fe7a23ec35b07769/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/00231244edee70ae79073ba521b0e37b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/00231244edee70ae79073ba521b0e37b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/b40090a07672dc9fcb066d1d43f45947/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/b40090a07672dc9fcb066d1d43f45947/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/3fb9032beafa1034cd906808a6eda63b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/3fb9032beafa1034cd906808a6eda63b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b199b04b276cd39f3277138d4ced28f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/americosimoes/.gradle/caches/8.9/transforms/b199b04b276cd39f3277138d4ced28f0/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/a61643733f8681fa395ae5f9b6b12de3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/a61643733f8681fa395ae5f9b6b12de3/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/americosimoes/.gradle/caches/8.9/transforms/440b6addd44429f7340f0340f0dee64c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/americosimoes/.gradle/caches/8.9/transforms/440b6addd44429f7340f0340f0dee64c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/52cbda13d99557a91336c592b8289858/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/52cbda13d99557a91336c592b8289858/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a68018ed0b13244fe0a8897cbff62391/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a68018ed0b13244fe0a8897cbff62391/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a3f21a07a21e067ecb8fe0967b6663ee/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/a3f21a07a21e067ecb8fe0967b6663ee/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/3cf2a0738543d6791d053f42d51d521a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/3cf2a0738543d6791d053f42d51d521a/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/231ee9b84e4d1a49f987daec44f68983/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/231ee9b84e4d1a49f987daec44f68983/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/77bda6e49d4ee268f8f785f46baf20f8/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/77bda6e49d4ee268f8f785f46baf20f8/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/americosimoes/.gradle/caches/8.9/transforms/3a0693f86213a035f3f2dae22142ce31/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/americosimoes/.gradle/caches/8.9/transforms/3a0693f86213a035f3f2dae22142ce31/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /home/americosimoes/.gradle/caches/8.9/transforms/db8140858bbb738020e471db030db57b/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /home/americosimoes/.gradle/caches/8.9/transforms/db8140858bbb738020e471db030db57b/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/f9696666e158e218e72cdaacfbb7f53f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/f9696666e158e218e72cdaacfbb7f53f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/dddd79e1479e822f388e6d0e1e05caea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/dddd79e1479e822f388e6d0e1e05caea/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/e12528b508dc997192a8b11f45f27521/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/e12528b508dc997192a8b11f45f27521/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/179b236c815e6930b2a4048ba91c6eb9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/179b236c815e6930b2a4048ba91c6eb9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/0e7d82aeb78a7319ba6d87a13f9a9200/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/0e7d82aeb78a7319ba6d87a13f9a9200/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/americosimoes/.gradle/caches/8.9/transforms/9718aca6bb9436d2563968830b4801f5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/americosimoes/.gradle/caches/8.9/transforms/9718aca6bb9436d2563968830b4801f5/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/6bc16bf5a102bad9294ad554b41e1936/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/6bc16bf5a102bad9294ad554b41e1936/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/cfb0ebebc92c6546adfc8447dfc87ef8/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/cfb0ebebc92c6546adfc8447dfc87ef8/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/17d6e47ace617836c8a13ce949217480/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/americosimoes/.gradle/caches/8.9/transforms/17d6e47ace617836c8a13ce949217480/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [dev.ffmpegkit-maintained:ffmpeg-kit-full:8.1.7] /home/americosimoes/.gradle/caches/8.9/transforms/a6d8adbc4ef8296e234cb65d45215a87/transformed/ffmpeg-kit-full-8.1.7/AndroidManifest.xml:5:5-44
+MERGED from [dev.ffmpegkit-maintained:ffmpeg-kit-full:8.1.7] /home/americosimoes/.gradle/caches/8.9/transforms/a6d8adbc4ef8296e234cb65d45215a87/transformed/ffmpeg-kit-full-8.1.7/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/americosimoes/Desktop/Mill/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/americosimoes/.gradle/caches/8.9/transforms/1aa52af9fd99951ba5b9978d6dc0dbd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/americosimoes/.gradle/caches/8.9/transforms/6f8a3e41250ec2e3cd669259ed05899d/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.mill.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.mill.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/americosimoes/.gradle/caches/8.9/transforms/e06a21fec410cfa44f3d914be07e4a8e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/americosimoes/.gradle/caches/8.9/transforms/dbbd9202332649b5629017f083403d1f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/americosimoes/.gradle/caches/8.9/transforms/9c4116de09263dbbae4e29b7d73ccb66/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
