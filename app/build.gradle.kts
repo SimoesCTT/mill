@@ -4,6 +4,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        create("release") {
+            storeFile = file(System.getProperty("user.home") + "/.keystore")
+            storePassword = ""
+            keyAlias = "mykey"
+            keyPassword = ""
+        }
+    }
     namespace = "com.mill.app"
     compileSdk = 35
 
@@ -18,6 +26,7 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release")
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
